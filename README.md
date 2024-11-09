@@ -8,10 +8,10 @@ Tengo experiencia en las siguientes tecnologías:
 
 - **Java** con **Spring Boot** y **Hibernate** (nivel básico)
 - **TypeScript** con **Express** y **TypeORM** (nivel básico)
-- **JavaScript** con **Express** y **Sequelize**
-- **Node.js**
-- **Bases de datos**: PostgreSQL, MySQL
-- **Control de versiones**: Git
+- **JavaScript** con **Express** y **Sequelize** (nivel básico)
+- **Node.js** (nivel básico)
+- **Bases de datos**: PostgreSQL, MySQL (nivel básico)
+- **Control de versiones**: Git (nivel básico)
 
 ## 🌱 Estoy aprendiendo
 
