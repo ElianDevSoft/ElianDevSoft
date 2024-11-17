@@ -16,6 +16,5 @@ Tengo experiencia en las siguientes tecnologías:
 
 Deseo aprender constantemente y actualmente estoy profundizando mis conocimientos en:
 
-- **Desarrollo de APIs RESTful**
 - **Microservicios**
 - **Pruebas automatizadas**
