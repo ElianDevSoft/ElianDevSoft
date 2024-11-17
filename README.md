@@ -6,11 +6,11 @@ Soy un desarrollador apasionado en constante aprendizaje. He terminado de cursar
 
 Tengo experiencia en las siguientes tecnologías:
 
-- **Java** con **Spring Boot** y **Hibernate** (nivel básico)
-- **TypeScript** con **Node.js** + **Express** + **TypeORM** (nivel básico)
-- **JavaScript** con **Node.js** + **Express** + **Sequelize** (nivel básico)  
-- **Bases de datos**: PostgreSQL, MySQL (nivel básico)
-- **Control de versiones**: Git (nivel básico)
+- **Java** con **Spring Boot** y **Hibernate** 
+- **TypeScript** con **Node.js** + **Express** + **TypeORM** 
+- **JavaScript** con **Node.js** + **Express** + **Sequelize**   
+- **Bases de datos**: PostgreSQL, MySQL 
+- **Control de versiones**: Git 
 
 ## 🌱 Estoy aprendiendo
 
