@@ -6,7 +6,7 @@ Soy un desarrollador apasionado en constante aprendizaje. He terminado de cursar
 
 ## Lenguajes  
 
-![Java](https://img.shields.io/badge/Java-3178C6?style=flat-square&logo=java&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+<img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=java&logoColor=white" width="100" height="30" />  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
 
 ## Frameworks  
 
