@@ -1,6 +1,6 @@
 # 👋 Hola
 
-Soy un desarrollador apasionado en constante aprendizaje. He terminado de cursar la carrera de **Ingeniería Informática** y me encanta crear aplicaciones robustas y eficientes que resuelvan problemas reales.
+Soy un desarrollador apasionado en constante aprendizaje. Soy graduado de la carrera de **Ingeniería Informática** y me encanta crear aplicaciones robustas y eficientes que resuelvan problemas reales.
 
 # 🚀 Tecnologías que manejo
 
